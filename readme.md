@@ -1,6 +1,6 @@
 # 📘 DSA Interview Problems – Notes & Code Index
 
-This repository is a ** list of interview problems** with references to detailed notes and implementations.
+This repository is a **list of interview problems** with references to detailed notes and implementations.
 
 ---
 
