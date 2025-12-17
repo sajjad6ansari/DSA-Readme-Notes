@@ -12,13 +12,13 @@ This repository is a **list of interview problems** with references to detailed 
 
 * [Climbing Stairs (Recursion)](https://github.com/sajjad6ansari/DSA-Readme-Notes/blob/main/01_RecursionBasics.md#c-climbing-stairs-lc-70)
 
-* Min Cost Climbing Stairs
+* [Min Cost Climbing Stairs](https://github.com/sajjad6ansari/DSA-Readme-Notes/blob/main/02_Advanced_Recursion_Backtracking.md#min-cost-climbing-stairs-leetcode-746)
 
-* House Robber
+* [House Robber](https://github.com/sajjad6ansari/DSA-Readme-Notes/blob/main/02_Advanced_Recursion_Backtracking.md#house-robber-leetcode-198)
+
+* [Subsets](https://github.com/sajjad6ansari/DSA-Readme-Notes/blob/main/02_Advanced_Recursion_Backtracking.md#subsets-leetcode-78)
 
 * House Robber II
-
-* Subsets
 
 * Combinations
 
@@ -143,7 +143,4 @@ This repository is a **list of interview problems** with references to detailed 
 * Cheapest Flights with K Stops
 
 * Minimum Cost to Connect Points
-
----
-
 
